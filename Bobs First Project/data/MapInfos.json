@@ -11,12 +11,14 @@ null,
 {"id":9,"expanded":false,"name":"Run-down House","order":9,"parentId":8,"scrollX":832,"scrollY":640},
 {"id":10,"expanded":false,"name":"Bat Room","order":10,"parentId":8,"scrollX":832,"scrollY":640},
 {"id":11,"expanded":false,"name":"Slime Room","order":11,"parentId":8,"scrollX":832,"scrollY":640},
-{"id":12,"expanded":false,"name":"Forest","order":12,"parentId":0,"scrollX":911.9999999999999,"scrollY":924.8571428571428},
+{"id":12,"expanded":false,"name":"Forest","order":12,"parentId":0,"scrollX":786.6666666666666,"scrollY":815.3333333333334},
 {"id":13,"expanded":true,"name":"Fishing Village","order":13,"parentId":0,"scrollX":819,"scrollY":916.5},
 {"id":14,"expanded":false,"name":"Farmers House","order":14,"parentId":13,"scrollX":1080,"scrollY":601},
 {"id":15,"expanded":false,"name":"Barn","order":15,"parentId":13,"scrollX":532,"scrollY":419.5},
 {"id":16,"expanded":false,"name":"Boat Maker","order":16,"parentId":13,"scrollX":540,"scrollY":300.5},
 {"id":17,"expanded":false,"name":"Old Fishermans House","order":17,"parentId":13,"scrollX":540,"scrollY":300.5},
 {"id":18,"expanded":false,"name":"Inn 1F","order":18,"parentId":13,"scrollX":532,"scrollY":339.5},
-{"id":19,"expanded":false,"name":"Stone Cave","order":19,"parentId":13,"scrollX":860,"scrollY":432.5}
+{"id":19,"expanded":false,"name":"Stone Cave","order":19,"parentId":13,"scrollX":1508,"scrollY":641.3333333333334},
+{"id":20,"expanded":true,"name":"Forest","order":20,"parentId":0,"scrollX":786.6666666666666,"scrollY":791.3333333333334},
+{"id":21,"expanded":false,"name":"Lost Forest","order":21,"parentId":20,"scrollX":2226.6666666666665,"scrollY":1443.3333333333333}
 ]
