@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"atypeId":1,"description":"Roll Acc on a D8!","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring on D8","note":"","params":[0,0,0,2,0,2,0,0],"price":0},
+{"id":1,"atypeId":1,"description":"Roll with a D8!","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring on D8","note":"","params":[0,0,0,2,0,2,0,0],"price":0},
 {"id":2,"atypeId":1,"description":"If acc role is a 1 get +2 acc. \nIf acc role is a 2 get +1 acc.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Glasses of Acc","note":"","params":[0,0,0,0,0,0,2,0],"price":0},
 {"id":3,"atypeId":1,"description":"If pwr role is a 6 (8 with a Ring of D8) get +2 pwr.\nIf pwr role is a 5 (7 with a Ring of D8) get +1 pwr.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Shield of critical force","note":"","params":[0,0,0,2,0,0,0,0],"price":0},
 {"id":4,"atypeId":1,"description":"Increces def by 3","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Plate of OP","note":"","params":[0,0,0,0,0,0,0,3],"price":0}
